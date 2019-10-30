@@ -1,7 +1,7 @@
 import React from 'react';
-const Sect1 = () => (
+const Sect4 = () => (
   <>
-    <h2>Section 1</h2>
+    <h2>Section 4</h2>
     <p>
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua. Purus gravida quis
@@ -69,4 +69,4 @@ const Sect1 = () => (
   </>
 );
 
-export default Sect1;
+export default Sect4;
